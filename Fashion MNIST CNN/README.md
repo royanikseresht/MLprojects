@@ -17,7 +17,7 @@ You can install the required libraries with:
 
 ```bash
 pip install tensorflow numpy matplotlib
-
+```
 
 ## Dataset
 
